@@ -75,4 +75,5 @@ TRO 21 | [Graph-Based Thermal–Inertial SLAM With Probabilistic Neural Networks
 |-|-|-|-|-|-|-|-|
 IROS 21 | [Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)| Odometry | Thermal, IMU, Radar | TBA | TBA | TBA | TBA |
 CVPR 21 | [Shape from Thermal Radiation:Passive Ranging Using Multi-spectral LWIR Measurements](https://openaccess.thecvf.com/content/CVPR2022/html/Nagase_Shape_From_Thermal_Radiation_Passive_Ranging_Using_Multi-Spectral_LWIR_Measurements_CVPR_2022_paper.html) | MonoDepth | Thermal | Own dataset | In+Outdoor | Here | TBA |
+RA-L 22 | [Thermal-Inertial SLAM for the Environments With Challenging Illumination](https://ieeexplore.ieee.org/abstract/document/9804793) | Odometry | Thermal, IMU | TBA | TBA | TBA | TBA |
 ---
